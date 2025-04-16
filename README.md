@@ -12,6 +12,14 @@ This project builds a research assistant that combines three specialized agents:
 
 The system produces comprehensive research reports that include historical performance, financial metrics, and real-time industry insights.
 
+## Project Links and Resources
+
+- **Codelabs Documentation**: [Codelabs Guide](https://codelabs-preview.appspot.com/?file_id=104Gmkgg5oiansf748GWCKOVeSHCKVh0MdO7twibhl-w/edit?tab=t.5cpih9qtxm58#0)  
+- **Project Submission Video (5 Minutes)**: [View on Google Drive](https://drive.google.com/drive/u/1/folders/1898HGutXjQIxwx3OVnr_Yvx9Uq_SKAE1)  
+- **Hosted Application Links**:  
+  - **Frontend (Streamlit)**: [167.99.147.201:8501](http://167.99.147.201:8501/)  
+  - **Backend (FastAPI)**: [167.99.147.201:8000](http://167.99.147.201:8000/)
+
 ## Architecture
 
 The system consists of:
